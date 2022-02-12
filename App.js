@@ -14,12 +14,6 @@ const App = () => {
       assignment: 'Reflection',
       date: '2/12',
     },
-    {
-      id: uuid(),
-      course: 'Juice',
-      assignment: 'Reflection',
-      date: '2/11',
-    },
   ]);
 
   // Flag true if user is currently editing an item
